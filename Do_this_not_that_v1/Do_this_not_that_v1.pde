@@ -7,6 +7,7 @@ color mint=#6BEA9C;
 
 void setup() {
   fullScreen();
+  population();
   }
   
 void draw() {
