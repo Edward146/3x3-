@@ -14,8 +14,16 @@ void setup() {
 }
 
 void draw() {
-  rect(dot2X, dot3X, rectWidth, rectHeight);
-  ellipse(dot1X, dot1Y, dotDiameter, dotDiameter);
+  rect(dot1X, dot1Y, rectWidth, rectHeight);
+  rect(dot2X, dot2Y, rectWidth, rectHeight);
+  rect(dot3X, dot3Y, rectWidth, rectHeight);
+  rect(dot5X, dot5Y, rectWidth, rectHeight);
+  rect(dot6X, dot6Y, rectWidth, rectHeight);
+  rect(dot7X, dot7Y, rectWidth, rectHeight);
+  rect(dot9X, dot9Y, rectWidth, rectHeight);
+  rect(dot10X, dot10Y, rectWidth, rectHeight);
+  rect(dot11X, dot11Y, rectWidth, rectHeight);
+  
   ellipse(dot2X, dot2Y, dotDiameter, dotDiameter);
   ellipse(dot3X, dot3Y, dotDiameter, dotDiameter);
   ellipse(dot4X, dot4Y, dotDiameter, dotDiameter);

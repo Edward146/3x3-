@@ -1,5 +1,5 @@
 void population() {
-dotDiameter = height*1/50;
+dotDiameter = width*1/27.77777777;
 dot1X = width*0/3;
 dot1Y = height*0/3;
 dot2X = width*1/3;
