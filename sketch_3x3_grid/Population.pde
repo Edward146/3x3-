@@ -1,5 +1,5 @@
 void population() {
-dotDiameter = width*1/27.77777777;
+dotDiameter = width*1/50;
 dot1X = width*0/3;
 dot1Y = height*0/3;
 dot2X = width*1/3;
@@ -34,5 +34,24 @@ dot16X = width*3/3;
 dot16Y = height*3/3;
 rectWidth = width*1/3;
 rectHeight = height*1/3;
-
+button1X = width*0/9;
+button1Y = height*0/9;
+button2X = width*1/9;
+button2Y = height*1/9;
+button3X = width*1/9;
+button3Y = height*1/9;
+button4X = width*1/9;
+button4Y = height*1/9;
+button5X = width*1/9;
+button5Y = height*1/9;
+button6X = width*1/9;
+button6Y = height*1/9;
+button7X = width*1/9;
+button7Y = height*1/9;
+button8X = width*1/9;
+button8Y = height*1/9;
+button9X = width*1/9;
+button9Y = height*1/9;
+button1Width = width*1/9;
+button1Height = height*1/9;
 }
